@@ -1,0 +1,10 @@
+﻿TYPE , Client, TX, Amount
+
+  DEPOSIT , 1 , 1 , 1.50000 
+"deposit","2","2","+2"
+   
+Withdrawal,1,3,.5
+deposit,3,4,1_000
+dispute,2,2
+resolve,2,2,  
+deposit,1,5,7
